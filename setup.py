@@ -8,7 +8,7 @@ setup(
     description="Ben Schoolland's first ever Python package!",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="TBA",  # FIXME: Add the URL to my GitHub repository
+    url="https://github.com/BSchoolland/bschoollands-first-command-line-tool",
     packages=find_packages(), 
     classifiers=[
         "Programming Language :: Python :: 3",
