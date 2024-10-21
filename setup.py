@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="bschoollands_first_package", 
-    version="0.1.0",
+    version="0.1.1",
     author="Benjamin Schoolland",
     author_email="bschoolland@gmail.com",
     description="Ben Schoolland's first ever Python package!",
