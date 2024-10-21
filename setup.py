@@ -17,7 +17,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'bschoollands_first_package=bschoollands_first_package:main',  # Format: 'command=module:function'
+            'bschoollands_first_package=bschoollands_first_package.bschoollands_first_package:main',  # Format: 'command=module:function'
         ],
     },
     python_requires=">=3.6", # not sure if this is necessary but it's in the example
